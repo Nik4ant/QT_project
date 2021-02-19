@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="app.png">images/icon_app.png</file>
+    <file alias="dots.png">images/icon_dots.png</file>
+    <file alias="key.png">images/icon_key.png</file>
+    <file alias="user.png">images/icon_user.png</file>
+    <file alias="error.png">images/icon_error.png</file>
+    <file alias="save.png">images/icon_save.png</file>
+    <file alias="home.png">images/icon_home.png</file>
+    <file alias="info.png">images/icon_info.png</file>
+    <file alias="delete.png">images/icon_delete.png</file>
+    <file alias="add.png">images/icon_add.png</file>
+  </qresource>
+</RCC>
